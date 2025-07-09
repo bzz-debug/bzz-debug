@@ -8,11 +8,11 @@ A full-stack developer from London
 
 👨‍💻 My previous work includes Last Table: a last-minute restaurant booking app, Natter: a gossiping website, and IMDBen: a film/TV show information site. All are visible in my repositories.
 
-- 🔭 I’m currently working on **an Elden Ring companion app**
+🔭 I’m currently working on **an Elden Ring companion app**
 
-- 🌱 I’m currently learning **Python**
+🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **ben.sumner@hotmail.com**
+📫 How to reach me **ben.sumner@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
