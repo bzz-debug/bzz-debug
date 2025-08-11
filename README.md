@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from London</h3>
 
 Hi 👋, I'm Ben
-An aspiring full-stack developer from London
+an aspiring full-stack developer from London
 
 📝 I am experienced at working with Node.js, Express, React/React Native, TypeScript, Expo and Jest.
 
