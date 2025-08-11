@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring full-stack developer from London</h3>
 
 
-📝 I am experienced at working with Node.js, Express, React/React Native, TypeScript, Expo and Jest.
+📝 I have experience working with Node.js, Express, React/React Native, TypeScript, Expo and Jest.
 
 👨‍💻 My previous work includes Last Table: a last-minute restaurant booking app, Natter: a gossiping website, and IMDBen: a film/TV show information site. All are visible in my repositories.
 
