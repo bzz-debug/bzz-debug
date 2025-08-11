@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A full-stack developer from London</h3>
+<h3 align="center">An aspiring full-stack developer from London</h3>
 
 
 📝 I am experienced at working with Node.js, Express, React/React Native, TypeScript, Expo and Jest.
