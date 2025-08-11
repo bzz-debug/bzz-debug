@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-Hi 👋, I'm Ben
+Hi 👋, I'm Ben,
 an aspiring full-stack developer from London
 
 📝 I am experienced at working with Node.js, Express, React/React Native, TypeScript, Expo and Jest.
